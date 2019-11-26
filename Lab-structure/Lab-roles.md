@@ -26,7 +26,9 @@ Candy Donaldson is the Community and Translation Associate for Healthy Headwater
 * Assists with field work when necessary
 
 ### Aquatic Science Field and Lab Technician  
-Jess Owen is the Healthy Headwaters Lab Aquatic Science Field and Lab Technician. She is based in GLIER's central nutrient facility. She:
+Jess Owen is the Healthy Headwaters Lab Aquatic Science Field and Lab Technician. She is based in GLIER's central nutrient facility or OANL. She:
 * Analyses Healthy Headwater Lab water samples for C, P, and N
 * Trains new lab members in nutrient analysis
+* Analyses PCB concentrations in biological samples
+* Works closely with Bkejwanong/Walpole Island First Nation on species at risk and Indigenous allyship
 
